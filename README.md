@@ -6,7 +6,7 @@ $ pip install poetry (or pip3 install poetry)
 ```
 ### To install dependences
 ```
-$ poetry install (to install dependences)
+$ poetry install 
 ```
 ### To create a virtualenv(.venv)
 ```
