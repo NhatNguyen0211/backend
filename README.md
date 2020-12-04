@@ -1,6 +1,6 @@
 # backend_fastapi
 ## Setup
-To run this project, install it locally using poetry:
+To run this project, install it locally using ```poetry```:
 ```
 $ pip install poetry (or pip3 install poetry)
 ```
